@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710727?b=1&k=20&m=1241710727&s=170667a&w=0&h=TH-n9JrD1BFzemwari9VgBtx6dVmNnm3KrYhLEtx0B4=" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhinav</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dheeraj</h1>
 <h3 align="center">I'm a passionate Programmer from India.</h3>
 
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Learning **[Java](https://github.com/abhinav3254/Java-And-DSA)**
 
-- 👨‍💻 All of my projects are available at **[Git Hub](https://github.com/abhinav3254/abhinav3254)**
+- 👨‍💻 All of my projects are available at **[Git Hub](https://https://github.com/dheeraj77a/dheeraj77a/edit/master/README.md)**
 
 - 📫 How to reach me **dheeraj77a@gmail.com**
 
